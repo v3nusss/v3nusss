@@ -25,9 +25,3 @@ Hello, my name is Davi and I am 18 years old. I'm a young technology enthusiast 
 </div>
 
 I'm constantly learning and improving in different areas of programming. If you have any interesting projects or want to collaborate on something, feel free to reach out!
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/v3nusss/v3nusss/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/v3nusss/v3nusss/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/v3nusss/v3nusss/output/github-contribution-grid-snake.svg">
-</picture>
